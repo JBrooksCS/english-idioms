@@ -1,0 +1,11 @@
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/bin/Debug/netcoreapp2.2/english-idioms.deps.json
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/bin/Debug/netcoreapp2.2/english-idioms.runtimeconfig.json
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/bin/Debug/netcoreapp2.2/english-idioms.runtimeconfig.dev.json
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/bin/Debug/netcoreapp2.2/english-idioms.dll
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/bin/Debug/netcoreapp2.2/english-idioms.pdb
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/obj/Debug/netcoreapp2.2/english-idioms.csprojAssemblyReference.cache
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/obj/Debug/netcoreapp2.2/english-idioms.csproj.CoreCompileInputs.cache
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/obj/Debug/netcoreapp2.2/english-idioms.AssemblyInfoInputs.cache
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/obj/Debug/netcoreapp2.2/english-idioms.AssemblyInfo.cs
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/obj/Debug/netcoreapp2.2/english-idioms.dll
+/Users/jason/Workspace/csharp/exercises/english-idioms/english-idioms/obj/Debug/netcoreapp2.2/english-idioms.pdb
